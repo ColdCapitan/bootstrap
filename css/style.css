@@ -61,7 +61,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/Pictures/Background.png");
+    background-image: url("../Pictures/Background.png");
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center; 
