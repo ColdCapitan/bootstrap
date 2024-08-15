@@ -101,7 +101,7 @@ body {
 .note {
     display: flex;
     position: relative; 
-    background-image: url("/Pictures/note.png");
+    background-image: url("../Pictures/note.png");
     background-size: auto; 
     background-repeat: no-repeat; 
     background-position: center; 
